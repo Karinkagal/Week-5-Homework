@@ -1,0 +1,236 @@
+#icon1 {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 191px;
+    top: 45px;
+}
+#icon2 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 204px;
+    top: 58px;
+    border-radius: 10px;
+
+
+    background: #FB8F1D;
+}
+a {color: #B8BECD;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
+
+.menu{
+    text-decoration: none;
+    position: absolute;
+    top: 1%;
+    bottom: 98.66%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+#home{
+    left: 46.69%;
+    right: 50.44%;
+    font-weight: 500;
+    line-height: 19px;
+
+    color: #202336;
+}
+#direct{
+    left: 51.75%;
+    right: 42.31%; 
+}
+#aboutus{
+    left: 59.81%;
+    right: 37.31%;
+}
+#param{
+    left: 64.81%;
+    right: 31.62%;
+    bottom: 98.66%;
+}
+#logigi{
+    left: 73.38%;
+    right: 24.12%;
+    top: 0.63%;
+    bottom: 98.3%;
+
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 60px;
+    color: #FB8F1D;
+    display: flex;
+    align-items: center;
+    mix-blend-mode: normal;
+    
+    box-sizing: border-box;
+    position: absolute;
+    left: 70.5%;
+    right: 21.25%;
+    top: 0.77%;
+    bottom: 98.44%;
+
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    padding: 12px;
+}
+#regigi{
+    left: 82.12%;
+    right: 14.12%;
+    top: 0.63%;
+    bottom: 98.3%;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 60px;
+
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+    left: 79.88%;
+    right: 11.88%;
+    top: 0.77%;
+    bottom: 98.44%;
+
+    background: #FB8F1D;
+    border-radius: 8px;
+    padding: 12px;
+}
+#explore{
+    position: absolute;
+    left: 11.81%;
+    right: 65.94%;
+    top: 3.58%;
+    bottom: 93.56%;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 80px;
+    color: #202336;
+}
+#image1{
+    position: absolute;
+    width: 687px;
+    height: 654px;
+    left: 808px;
+    top: 167px;
+}
+#holiday{
+    position: absolute;
+    left: 11.94%;
+    right: 78.75%;
+    top: 43%;
+    bottom: 91.75%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #202336;
+}
+select{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+    color: #4A4C53;
+
+    display: flex;
+    align-items: center;
+    border: 0.8px solid #AFB0B9;
+    border-radius: 6px;
+}
+#sel1{/* Location */
+    left: 13.88%;
+    right: 81.88%;
+    top: 55.9%;
+    bottom: 89.92%;
+    
+    width: 220px;
+    height: 52px;
+    left: 191px;
+    top: 532px;
+}
+#sel2{ /* Activity */
+    left: 29.5%;
+    right: 66.75%;
+    top: 75.9%;
+    bottom: 89.92%;
+
+    width: 220px;
+    height: 52px;
+    left: 441px;
+    top: 532px;
+}
+#sel3{/* Grade */
+    left: 13.88%;
+    right: 82.38%;
+    top: 11.45%;
+    bottom: 88.37%;
+
+    width: 220px;
+    height: 52px;
+    left: 191px;
+    top: 619px;
+}
+
+#sel4{/* Date */
+    left: 29.5%;
+    right: 66.75%;
+    top: 11.45%;
+    bottom: 88.37%;
+
+    width: 220px;
+    height: 52px;
+    left: 441px;
+    top: 619px;
+}
+#search{
+    position: absolute;
+    left: 15.62%;
+    right: 80.56%;
+    top: 12.85%;
+    bottom: 86.08%;
+
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 60px;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    left: 12.50%;
+    right: 76.88%;
+    top: 95.92%;
+    bottom: 86.15%;
+    padding: 15px;
+
+    background: #FB8F1D;
+    border-radius: 8px;
+}
+#image2{
+    position: absolute;
+    left: 8.81%;
+    right: 50%;
+    top: 19.81%;
+    bottom: 70.63%;
+}
+

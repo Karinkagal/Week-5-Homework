@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Playfair+Display:wght@700&display=swap');
+img{
+    position: absolute;
+    left: 48.12%;
+    right: 14.44%;
+    top: 46.67%;
+    bottom: 43.63%;
+}
+#guide{
+    position: absolute;
+    left: 15%;
+    right: 54.94%;
+    top: 49.39%;
+    bottom: 48.82%;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+}
+#spfont{
+    position: absolute;
+    left: 15%;
+    right: 56.88%;
+    top: 70.54%;
+    bottom: 46.85%;
+
+    font-family:'Macondo', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    color: #7D7987;
+}
+#downl{
+    position: absolute;
+    text-decoration:none;
+    left: 17.69%;
+    right: 77.44%;
+    top: 53.74%;
+    bottom: 45.19%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    box-sizing: border-box;
+    position: absolute;
+    left: 15%;
+    right: 74.75%;
+    top: 90.85%;
+    bottom: 45.29%;
+
+    background: #FB8F1D;
+    border-radius: 8px;
+    padding: 15px;
+
+}

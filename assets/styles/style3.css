@@ -1,0 +1,27 @@
+#viewall{
+    position: absolute;
+    text-decoration:none;
+    left: 80.06%;
+    right: 15.94%;
+    top: 34.59%;
+    bottom: 64.33%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+
+    display: flex;
+    align-items: center;
+
+    color: #FB8F1D;
+
+    mix-blend-mode: normal;
+}
+div.box_1 {
+    text-align: center;
+    display: block;
+    background-repeat:  no-repeat;
+    
+}
